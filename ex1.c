@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include "tab.h"
+#include "ex1.h"
 
 int* myTab2 = NULL;
 
